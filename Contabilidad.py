@@ -34,5 +34,6 @@ capital_ganado = int(input("Capital ganado: "))
 #capital_contable_total = suma de lo anterior
 #suma_pasiv_cap = suma de pasivo y capital
 
+holahola
 
 
